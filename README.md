@@ -1,1 +1,1 @@
-# hariomshahu-covid19-lung-ct-scans-classification
+# covid19-lung-ct-scans-classification
